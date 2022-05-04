@@ -1,0 +1,19 @@
+.formStyle{
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 35%;
+    height: 65vh;
+    position: absolute;
+    left: 40%;
+    top: 15%;
+    padding-top: 2%;
+    opacity: 22;
+    z-index: 1000;
+    background-color: white;
+}
+
+.formStyle form input{
+    width: 52%;
+    border-radius: 8px;
+}

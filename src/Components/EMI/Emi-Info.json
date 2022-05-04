@@ -1,0 +1,16 @@
+[
+    {
+        "pricingModel": "EMI",
+        "status": "Active",
+        "amount": "10 * ₹2500/month",
+        "pricing": "pricing option 1",
+        "profit": "10% profit margin"
+      },
+      {
+        "pricingModel": "EMI",
+        "status": "Active",
+        "amount": "10 * ₹1500/month",
+        "pricing": "pricing option 2",
+        "profit": "12% profit margin"
+      }
+]

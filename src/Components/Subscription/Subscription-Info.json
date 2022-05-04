@@ -1,0 +1,16 @@
+[
+    {
+        "pricingModel": "Subscription",
+        "status": "Inactive",
+        "amount": "₹7000/year",
+        "pricing": "pricing option 1",
+        "profit": "profit margin is variable"
+      },
+      {
+        "pricingModel": "Subscription",
+        "status": "Active",
+        "amount": "₹6000/year",
+        "pricing": "pricing option 2",
+        "profit": "10% profit margin "
+      }
+]
